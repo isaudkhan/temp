@@ -5,3 +5,5 @@ is_true = False # bool
 
 name = input("what is your name: \n")
 print (f"your name is {name}")
+
+123
